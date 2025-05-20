@@ -2,8 +2,8 @@
 
 # EX NO 1: Cloud-account-set-up-and-services
 
-Name : YASEEN.F
-Reg no: 212223220126
+## Name : YASEEN.F
+## Reg no: 212223220126
 
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
